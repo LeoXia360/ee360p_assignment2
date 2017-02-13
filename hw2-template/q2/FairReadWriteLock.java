@@ -1,4 +1,5 @@
-
+// Rahul Jain and Leo Xia
+// eid: rj8656, lx939
 
 public class FairReadWriteLock {
 	
